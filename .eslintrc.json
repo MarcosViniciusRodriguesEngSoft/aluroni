@@ -21,13 +21,11 @@
     "@typescript-eslint"
   ],
   "rules": {
+    "react/react-in-jsx-scope": "off",
+    "linebreak-style": 0,
     "indent": [
       "error",
       2
-    ],
-    "linebreak-style": [
-      "error",
-      "unix"
     ],
     "quotes": [
       "error",
